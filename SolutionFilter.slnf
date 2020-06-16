@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "SolutionFilterSample.sln",
+    "projects": [
+      "SolutionFilterSample\\SolutionFilterSample.csproj",
+      "ThirdProject\\ThirdProject.csproj"
+    ]
+  }
+}
